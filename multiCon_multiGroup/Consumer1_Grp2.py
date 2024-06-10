@@ -3,7 +3,7 @@ from confluent_kafka import Producer, KafkaError,KafkaException
 import sys
 
 
-me="Mahmoud_NEW"
+me="Marwa-2"
 
 conf = {'bootstrap.servers': '34.68.55.43:9094,34.136.142.41:9094,34.170.19.136:9094',
         'group.id': 'G2',
